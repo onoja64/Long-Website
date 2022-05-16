@@ -254,6 +254,7 @@ img {
 
 .button:hover {
   box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.15);
+  background-color: rgb(8, 8, 168);
 }
 
 /* ===== ABOUT =====*/
@@ -271,6 +272,7 @@ img {
 }
 
 .about__img img {
+  
   width: 200px;
   border-radius: .5rem;
   
